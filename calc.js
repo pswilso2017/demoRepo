@@ -1,4 +1,4 @@
-console.log("Unit Testing with NodeUnit Module");
+console.log("Hello World");
 
 module.exports = {
 
