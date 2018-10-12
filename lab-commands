@@ -1,0 +1,12 @@
+git status
+git add .
+git commit -m "added calc and package.json files"
+git status
+git add calc.js
+git add package.json
+git commit -m "added calc and package.json files"
+git status
+git commit -m "added a comment to calc"
+git log
+git remote add origin https://github.com/pswilso2017/demoRepo.git
+git push -u origin master
